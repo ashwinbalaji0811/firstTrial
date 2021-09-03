@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Pseudoscience"
 date: 2021-09-03T10:33:46+05:30
 draft: false
 ---
