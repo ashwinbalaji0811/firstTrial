@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2021-09-01T17:33:46+05:30
-draft: true
+draft: false
 ---
 
 # My First Post in Hugo
